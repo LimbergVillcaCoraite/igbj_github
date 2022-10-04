@@ -1,12 +1,14 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
+<?php include("db.php") ?>
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IGBJ-Mantenimiento</title>
-</head>
-<body>
+    <title>Mantenimiento IGBJ</title>
+    <link rel="icon" href="img/linux.png">
+ </head>
+ <body>
     
-</body>
-</html>
+ </body>
+ </html>
