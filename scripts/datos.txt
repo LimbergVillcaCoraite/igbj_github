@@ -1,0 +1,2 @@
+use IGBJ;
+CALL add_Persona('9059654', 'limberg','Limberg','Villca','Coraite','1999-03-05',"Santa Cruz 5 Anillointerno",'67762923','limbervillcacoraie@gmail.com','67762923','M','5',"sc",'Estudiante')
